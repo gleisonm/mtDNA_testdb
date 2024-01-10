@@ -1,5 +1,5 @@
 sample,fastq_1,fastq_2
-NC_000845.1,fastq/f_NC_000845.1.fasta_mtDNA_1.fastq,fastq/f_NC_000845.1.fasta_mtDNA_2.fastq
-NC_005089.1,fastq/f_NC_005089.1.fasta_mtDNA_1.fastq,fastq/f_NC_005089.1.fasta_mtDNA_2.fastq
-NC_012920.1,fastq/f_NC_012920.1.fasta_mtDNA_1.fastq,fastq/f_NC_012920.1.fasta_mtDNA_2.fastq
-NC_037304.1,fastq/f_NC_037304.1.fasta_mtDNA_1.fastq,fastq/f_NC_037304.1.fasta_mtDNA_2.fastq
+NC_0008451,fastq/f_NC_0008451fasta_mtDNA_1.fastq,fastq/f_NC_0008451fasta_mtDNA_2.fastq
+NC_0050891,fastq/f_NC_0050891fasta_mtDNA_1.fastq,fastq/f_NC_0050891fasta_mtDNA_2.fastq
+NC_0129201,fastq/f_NC_0129201fasta_mtDNA_1.fastq,fastq/f_NC_0129201fasta_mtDNA_2.fastq
+NC_0373041,fastq/f_NC_0373041fasta_mtDNA_1.fastq,fastq/f_NC_0373041fasta_mtDNA_2.fastq
