@@ -1,0 +1,5 @@
+sample,fastq_1,fastq_2
+NC_000845.1,fastq/f_NC_000845.1.fasta_mtDNA_1.fastq,fastq/f_NC_000845.1.fasta_mtDNA_2.fastq
+NC_005089.1,fastq/f_NC_005089.1.fasta_mtDNA_1.fastq,fastq/f_NC_005089.1.fasta_mtDNA_2.fastq
+NC_012920.1,fastq/f_NC_012920.1.fasta_mtDNA_1.fastq,fastq/f_NC_012920.1.fasta_mtDNA_2.fastq
+NC_037304.1,fastq/f_NC_037304.1.fasta_mtDNA_1.fastq,fastq/f_NC_037304.1.fasta_mtDNA_2.fastq
