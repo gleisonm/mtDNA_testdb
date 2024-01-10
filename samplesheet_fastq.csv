@@ -1,5 +1,5 @@
 sample,fastq_1,fastq_2
-NC_0008451,fastq/f_NC_0008451fasta_mtDNA_1.fastq,fastq/f_NC_0008451fasta_mtDNA_2.fastq
-NC_0050891,fastq/f_NC_0050891fasta_mtDNA_1.fastq,fastq/f_NC_0050891fasta_mtDNA_2.fastq
-NC_0129201,fastq/f_NC_0129201fasta_mtDNA_1.fastq,fastq/f_NC_0129201fasta_mtDNA_2.fastq
-NC_0373041,fastq/f_NC_0373041fasta_mtDNA_1.fastq,fastq/f_NC_0373041fasta_mtDNA_2.fastq
+NC_0008451,https://raw.githubusercontent.com/gleisonm/mtDNA_testdb/main/fastq/f_NC_0008451fasta_mtDNA_1.fastq,https://raw.githubusercontent.com/gleisonm/mtDNA_testdb/main/fastq/f_NC_0008451fasta_mtDNA_2.fastq
+NC_0050891,https://raw.githubusercontent.com/gleisonm/mtDNA_testdb/main/fastq/f_NC_0050891fasta_mtDNA_1.fastq,https://raw.githubusercontent.com/gleisonm/mtDNA_testdb/main/fastq/f_NC_0050891fasta_mtDNA_2.fastq
+NC_0129201,https://raw.githubusercontent.com/gleisonm/mtDNA_testdb/main/fastq/f_NC_0129201fasta_mtDNA_1.fastq,https://raw.githubusercontent.com/gleisonm/mtDNA_testdb/main/fastq/f_NC_0129201fasta_mtDNA_2.fastq
+NC_0373041,https://raw.githubusercontent.com/gleisonm/mtDNA_testdb/main/fastq/f_NC_0373041fasta_mtDNA_1.fastq,https://raw.githubusercontent.com/gleisonm/mtDNA_testdb/main/fastq/f_NC_0373041fasta_mtDNA_2.fastq
